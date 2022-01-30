@@ -62,12 +62,6 @@ public class User {
                 setEmail(faker.internet().emailAddress());
     }
 
-   /* public static User getExistingUser(){
-      User  user = getRandom();
-        return new User().
-                setName(faker.name().firstName()).
-                setEmail(faker.internet().emailAddress());
-    }*/
 
 
 
